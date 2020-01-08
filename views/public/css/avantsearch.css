@@ -756,11 +756,14 @@ a.search-reset-link:hover {
 .search-td-image img,
 .search-td-image-fallback img
 {
-	margin: 2px 12px 4px 4px;
-	max-width: 100%;
-	border: 1px solid #ccc;
-	padding: 3px;
-	background-color: #fff;
+	// margin: 2px 12px 4px 4px;
+        max-width: 140px;
+        max-height: 170px;
+        width: auto;
+        height: auto;
+        border: 1px solid #ccc;
+        padding: 3px;
+        background-color: #fff;
 }
 
 .search-td-image-fallback img {
